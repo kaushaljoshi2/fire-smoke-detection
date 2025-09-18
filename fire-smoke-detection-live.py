@@ -1,3 +1,4 @@
+
 # Import necessary libraries
 from ultralytics import YOLO # YOLOv8 model for detection
 import cv2 # OpenCV for image display
